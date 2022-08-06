@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @bj-rutledge
 ### 👀 I’m a passionate full stack web developer. I love this stuff! 
-### 🌱 I’m currently building a full stack application with Iconitek LLC that will help gig workers succeed.
+### 🌱 I’m currently building an API for a full stack application at Iconitek LLC that will help gig workers succeed and building the framework for data analysis at the wonderful non-profit, Living With Conviction.  
 
 ### I learned to code with nothing but a pencil, paper, and computer science books. I have since graduated to writing software on actual computers! I have experience in JavaScript, HTML5, Node.js, React, C#, XAML, Python, PowerShell, BASH, and a few others. I love full stack development, but my passion is in the back end. 
 
