@@ -16,11 +16,13 @@
 
 ### I have also worked with ...
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com/en/" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-
+<a href="https://www.sqlite.org/index.html" title="SQLite" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://docs.python.org/3/" title="Python" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 # Hactoberfest badges. 
 [![An image of @bjrutledge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bjrutledge)](https://holopin.io/@bjrutledge)
