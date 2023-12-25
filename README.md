@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @bj-rutledge
+# 👋 Hi, I’m BJ Rutledge
 ### 👀 I’m a passionate desktop and full stack web developer. I love this stuff! 
 
 I learned to code with nothing but a pencil, paper, and computer science books. I have since graduated to writing software on actual computers! I have experience in JavaScript, HTML5, Node.js, React, C#, XAML, Python, PowerShell, BASH, and a few others. I love full stack development, but my passion is in the back end. 
