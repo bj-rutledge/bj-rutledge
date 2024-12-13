@@ -13,7 +13,8 @@ I learned to code with nothing but a pencil, paper, and computer science books. 
 <a href="https://www.github.com/bj-rutledge" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://cplusplus.com/reference/" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/en-us/powershell/" title="PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/d8261c1374c68fd3cd4d418168db4004a508545d/icons/file_type_powershell2.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-
+<a href="https://www.chakra-ui.com/" title="Chakra" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.gatsbyjs.com/" title="Gatsby" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### I have also worked with ...
 <a href="https://aws.amazon.com/" target="_blank" title="AWS Lambda" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="AWS Lambda" width="30" height="30"/></a>&nbsp;&nbsp;
